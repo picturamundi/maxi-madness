@@ -1,6 +1,7 @@
 if SHIELD_MAXIMADNESS
 
-config zmk_keyboard_name
+config ZMK_KEYBOARD_NAME
+    string
     default "Maxi Madness"
 
 endif
