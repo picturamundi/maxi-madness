@@ -21,6 +21,6 @@
                 &kp LSHFT       &kp Z   &kp X   &kp C   &kp V   &kp B   &kp N   &kp M   &kp COMMA   &kp DOT &kp QMARK   &kp RSHFT                           &kp LEFT    &kp DOWN    &kp RIGHT   &kp N0   &kp DOT
                                 &kp LCMD                                &kp SPACE                                       &kp RCMD
             >;
-        };aaa
+        };
     };
 };
